@@ -1,0 +1,7 @@
+					Different Kinds Of Security Breaches
+	This paper is talking about four kinds of threats to the secutity of computing system,include interruption,interception,modification,and fabrication.The four threats all exploit vulnerabilities of the assets in computing systems.
+	Interruption:an asset of the system is lost,such as malicious destruction of a hardware device,erasure of a program or data file and system can't find a particular disk file.
+	Interceprion:some unauthorized party has gained access to an asset.example is illicit copying of program or data files,or a computing system.
+	Modification:an unauthorized party not only accesses but tampers with an asset
+	Fabrication:unauthorized party might fabricate counterfeit objects for a computing system.
+	The result of the study showed that the four kinds of interference with computer can describe the kinds of exposures possible
